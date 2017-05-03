@@ -1,4 +1,11 @@
 [
+  
+  { "name": "厦门大学",
+    "cmsURL": "http://ssfw.xmu.edu.cn/",
+    "cmsSys:""//似乎是金智教育的,
+    "libURL": "http://library.xmu.edu.cn/(http://210.34.4.28)",
+    "libSys":,
+  },
   {
     "name":"中山大学",
     "cmsSys":"custom",
