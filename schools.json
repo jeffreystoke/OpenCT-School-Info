@@ -1046,4 +1046,11 @@
     "cmsURL": "http://125.219.48.21/",
     "cmsSys": "zfsoft"
   }
+  {
+    "name":"重庆邮电大学",
+    "cmsSys":"custom",
+    "cmsURL":"http://172.18.70.50",
+    "libSys":"custom",
+    "libURL":"http://tsg.cqupt.edu.cn"
+  },
 ]
