@@ -1,24 +1,24 @@
 [
   {
-    "name":"中山大学"
-    "cmsSys":"common"
+    "name":"中山大学",
+    "cmsSys":"custom",
     "cmsURL":"http://uems.sysu.edu.cn/jwxt/",
-    "libSys":"common"
+    "libSys":"custom",
     "libURL":"http://202.116.64.108:8991/F/"
   },
   {
     "name":"电子科技大学",
     "cmsURL":"http://portal.uestc.edu.cn",
-    "cmsSys":"common",
+    "cmsSys":"custom",
     "libURL":"http://www.lib.uestc.edu.cn/",
-    "libSys":"common"
+    "libSys":"custom"
   },
   {
     "name": "厦门大学",
     "cmsURL": "http://ssfw.xmu.edu.cn/",
-    "cmsSys": "common",
+    "cmsSys": "custom",
     "libURL": "http://library.xmu.edu.cn/",
-    "libSys": "common"
+    "libSys": "custom"
   },
   {
     "name": "武汉科技大学(仅教务网)",

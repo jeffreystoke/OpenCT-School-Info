@@ -1,0 +1,24 @@
+{
+    "class_1": {
+        "url": "",
+        "tableId": "",
+
+        "nameIndex": 1,
+        "nameRE": "",
+
+        "teacherIndex": 2,
+        "teacherRE": "",
+
+        "placeIndex": 4,
+        "placeRE": "",
+
+        "timeIndex": 3,
+        "timeRE": "",
+
+        "duringIndex": 3,
+        "duringRE": "",
+
+        "typeIndex": 2,
+        "typeRE": ""
+    }
+}

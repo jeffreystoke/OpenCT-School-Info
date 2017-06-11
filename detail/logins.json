@@ -1,0 +1,19 @@
+{
+    "login_0": {
+        "method": "auto",
+        "params": "auto",
+        "encryption": null
+    },
+    "login_1": {
+        "method": "post",
+        "params": "key={@value}&key={@value}...",
+        "encryption": null
+    },
+    "login_2": {
+        "method": "post",
+        "params": "key={@value}&key={@value}...",
+        "encryption": {
+            "key": "ENCRYPTION_ALGORITHM"
+        }
+    }
+}

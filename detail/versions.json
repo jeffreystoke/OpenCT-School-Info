@@ -1,0 +1,16 @@
+{
+    "version_1": {
+        "cmsSys": "zfsoft",
+        "cmsDetail": {
+            "loginDetail": "login_0",
+            "classDetail": "class_1",
+            "gradeDetail": "grade_1"
+        },
+
+        "libSys": "njhuiwen",
+        "libDetail": {
+            "searchDetail": "search_1",
+            "borrowDetail": "borrow_1"
+        }
+    }
+}

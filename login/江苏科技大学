@@ -1,0 +1,29 @@
+{
+    "loginURL": "http://jwgl.just.edu.cn:8080/",
+    "captchaURL": "verifycode.servlet",
+    "extraLoginPartURL": "Logon.do?method=logon&flag=sess",
+    "fetchExtraMethod": "POST",
+    "script": [
+        "var scode = extraPart.split(\"#\")[0];",
+        "var sxh = extraPart.split(\"#\")[1];",
+        "var code=username+'%%%'+password;",
+        "var encoded='';",
+        "for(var i=0;i<code.length;i++) {",
+        "if (i < 20) {",
+        "encoded = encoded + code.substring(i, i + 1) + scode.substring(0, parseInt(sxh.substring(i, i + 1)));",
+        "scode = scode.substring(parseInt(sxh.substring(i, i + 1)), scode.length);",
+        "} else {",
+        "encoded = encoded + code.substring(i, code.length);",
+        "i = code.length;",
+        "}",
+        "}",
+        "return encoded;"
+    ],
+    "postKeyValueSpec": {
+        "useDogCode": "",
+        "encoded": "{POST_CONTENT}",
+        "RANDOMCODE": "{CAPTCHA_CODE}"
+    },
+    "postReferer": "",
+    "postURL": ""
+}
