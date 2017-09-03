@@ -1101,4 +1101,11 @@
     "cmsSys":"urp",
     "cmsURL":"http://218.196.240.97:80"
   }
+  {
+    "name":"重庆邮电大学",
+    "cmsSys":"custom",
+    "cmsURL":"http://172.18.70.50",
+    "libSys":"custom",
+    "libURL":"http://tsg.cqupt.edu.cn"
+  },
 ]
