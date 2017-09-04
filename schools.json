@@ -1100,5 +1100,10 @@
     "name":"河南理工大学",
     "cmsSys":"urp",
     "cmsURL":"http://218.196.240.97:80"
+  },
+  {
+  	"name":"西华大学",
+  	"cmsSys":"zfsoft",
+  	"cmsURL":"http://202.115.159.52/"
   }
 ]
