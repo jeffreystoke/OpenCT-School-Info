@@ -1100,5 +1100,12 @@
     "name":"河南理工大学",
     "cmsSys":"urp",
     "cmsURL":"http://218.196.240.97:80"
+  },
+  {
+    "name":"西华大学(使用校内网)",
+    "cmsSys":"zfsoft",
+    "cmsURL":"http://jwc.xhu.edu.cn/",
+    "libSys":"njhuiwen",
+    "libURL":"http://202.115.151.118:8080/opac/search.php"
   }
 ]
