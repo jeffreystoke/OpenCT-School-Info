@@ -1101,4 +1101,9 @@
     "cmsSys":"urp",
     "cmsURL":"http://218.196.240.97:80"
   }
+  {
+    "name": "石河子大学",
+    "cmsURL": "http://202.201.162.136",
+    "cmsSys": "custom"
+  }
 ]
