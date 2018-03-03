@@ -1107,6 +1107,19 @@
 	"cmsURL":"https://jwc.scnu.edu.cn/default2.aspx",
 	"libSys":"njhuiwen",
 	"cmsURL":"http://202.116.41.246:8080/opac/search_adv.php#/index"
+  },
+  {
+    "name": "石家庄学院（主线）",
+    "cmsURL": "http://210.31.249.143/",
+    "cmsSys": "zfsoft",
+    "libURL": "http://210.31.252.152:8080/",
+    "libSys": "njhuiwen"
+  },
+  {
+    "name": "石家庄学院（备用）",
+    "cmsURL": "http://210.31.249.144/",
+    "cmsSys": "zfsoft",
+    "libURL": "http://210.31.252.152:8080/",
+    "libSys": "njhuiwen"
   }
-	
 ]
